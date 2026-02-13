@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/michaelolof/gofi/gofiengine/utils"
+	"github.com/michaelolof/gofiengine/utils"
 
 	"github.com/valyala/fastjson"
 )

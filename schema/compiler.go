@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/michaelolof/gofi/gofiengine/utils"
-	"github.com/michaelolof/gofi/gofiengine/validators"
+	"github.com/michaelolof/gofiengine/utils"
+	"github.com/michaelolof/gofiengine/validators"
 )
 
 type CompiledSchema struct {

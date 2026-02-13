@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/michaelolof/gofi/gofiengine/cont"
+	"github.com/michaelolof/gofiengine/cont"
 )
 
 func WriteResponse(w http.ResponseWriter, rules *SchemaRules, opts *ValidationOptions, code int, response any) error {

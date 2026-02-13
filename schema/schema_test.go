@@ -3,7 +3,7 @@ package schema_test
 import (
 	"testing"
 
-	"github.com/michaelolof/gofi/gofiengine/schema"
+	"github.com/michaelolof/gofiengine/schema"
 )
 
 type TestBody struct {

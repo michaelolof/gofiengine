@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/michaelolof/gofi/gofiengine/validators"
+	"github.com/michaelolof/gofiengine/validators"
 )
 
 type HandlerFunc = func(c Context) error

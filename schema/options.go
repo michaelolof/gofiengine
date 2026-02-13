@@ -4,8 +4,8 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/michaelolof/gofi/gofiengine/cont"
-	"github.com/michaelolof/gofi/gofiengine/validators"
+	"github.com/michaelolof/gofiengine/cont"
+	"github.com/michaelolof/gofiengine/validators"
 )
 
 type ValidationOptions struct {

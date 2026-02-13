@@ -1,4 +1,4 @@
-module github.com/michaelolof/gofi/gofiengine
+module github.com/michaelolof/gofiengine
 
 go 1.23.4
 

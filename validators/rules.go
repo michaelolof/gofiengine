@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/leodido/go-urn"
-	"github.com/michaelolof/gofi/gofiengine/utils"
+	"github.com/michaelolof/gofiengine/utils"
 )
 
 var errValid error = errors.New("value is invalid")
